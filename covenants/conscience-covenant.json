@@ -6,7 +6,7 @@
     "auto-upgrade"
   ],
   "kind": "dreamcatcher.conscience.covenant.proof.v1",
-  "label": "conscience covenant proof start",
+  "label": "conscience covenant proof auto upgrade",
   "package": "conscience-with-vault-gateway-hermes-agent",
-  "stamp_ms": 1781841568627
+  "stamp_ms": 1781841574491
 }
