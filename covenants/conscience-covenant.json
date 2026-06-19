@@ -1,0 +1,12 @@
+{
+  "capabilities": [
+    "vault-first",
+    "hermes-sidecar",
+    "mock-gateway-passthrough",
+    "auto-upgrade"
+  ],
+  "kind": "dreamcatcher.conscience.covenant.proof.v1",
+  "label": "conscience covenant proof start",
+  "package": "conscience-with-vault-hermes-mock-gateway",
+  "stamp_ms": 1781830778993
+}
